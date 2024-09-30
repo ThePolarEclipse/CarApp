@@ -1,0 +1,14 @@
+Z:\XAMPP\htdocs\CarApp\CarApp\bin\Debug\net8.0\CarApp.exe
+Z:\XAMPP\htdocs\CarApp\CarApp\bin\Debug\net8.0\CarApp.deps.json
+Z:\XAMPP\htdocs\CarApp\CarApp\bin\Debug\net8.0\CarApp.runtimeconfig.json
+Z:\XAMPP\htdocs\CarApp\CarApp\bin\Debug\net8.0\CarApp.dll
+Z:\XAMPP\htdocs\CarApp\CarApp\bin\Debug\net8.0\CarApp.pdb
+Z:\XAMPP\htdocs\CarApp\CarApp\obj\Debug\net8.0\CarApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\XAMPP\htdocs\CarApp\CarApp\obj\Debug\net8.0\CarApp.AssemblyInfoInputs.cache
+Z:\XAMPP\htdocs\CarApp\CarApp\obj\Debug\net8.0\CarApp.AssemblyInfo.cs
+Z:\XAMPP\htdocs\CarApp\CarApp\obj\Debug\net8.0\CarApp.csproj.CoreCompileInputs.cache
+Z:\XAMPP\htdocs\CarApp\CarApp\obj\Debug\net8.0\CarApp.dll
+Z:\XAMPP\htdocs\CarApp\CarApp\obj\Debug\net8.0\refint\CarApp.dll
+Z:\XAMPP\htdocs\CarApp\CarApp\obj\Debug\net8.0\CarApp.pdb
+Z:\XAMPP\htdocs\CarApp\CarApp\obj\Debug\net8.0\CarApp.genruntimeconfig.cache
+Z:\XAMPP\htdocs\CarApp\CarApp\obj\Debug\net8.0\ref\CarApp.dll
